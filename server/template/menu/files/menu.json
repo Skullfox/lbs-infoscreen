@@ -1,0 +1,44 @@
+{
+  "Mon": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  },
+    "Tue": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Semmelknödel",
+	"menu2": "Amsterdamer Fleischtopf",
+	"dessert": "Äpfel"	
+  },
+    "Wed": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  },
+    "Thu": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  },
+    "Fri": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  },
+    "Sat": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  },
+    "Sun": {
+    "starter": "Selleriecremesuppe",
+    "menu1": "Überbackene Rösti mit Letcho und Salat",
+	"menu2": "Spaghetti Carbonara mit Salat",
+	"dessert": "Obst"	
+  }
+}
